@@ -46,7 +46,7 @@ function url() {
  */
 function libraries() {
     return array (
-        'crypto/Crypt'
+        'Crypt'
     );
 }
 
