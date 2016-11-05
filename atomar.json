@@ -1,0 +1,6 @@
+{
+  "name": "crypto",
+  "version": "1.0.0",
+  "description": "Provides some helpful cryptography tools",
+  "author": "Joel Lonbeck <joel@neutrinographics.com>"
+}
