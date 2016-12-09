@@ -1,6 +1,7 @@
 {
   "name": "crypto",
   "version": "1.0.0",
+  "atomar_version": "0.2",
   "description": "Provides some helpful cryptography tools",
   "author": "Joel Lonbeck <joel@neutrinographics.com>"
 }
